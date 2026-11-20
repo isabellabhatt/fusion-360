@@ -14,7 +14,7 @@
 <p align="center"><img src="./media/preview.png" alt="Autodesk Fusion 360 workspace showing a parametric model in the design environment" width="100%"></p>
 
 <p align="center">
-  <a href="__PAGES_URL__">
+  <a href="https://isabellabhatt.github.io/fusion-360/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./media/button2.svg">
       <img src="./media/button1.svg" alt="Button1" width="320">
