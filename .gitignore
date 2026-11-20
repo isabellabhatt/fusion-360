@@ -1,0 +1,25 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build output
+/build/
+/dist/
+/out/
+/.cache/
+
+# Logs
+*.log
+
+# Local overrides
+*.local
+.env
